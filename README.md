@@ -3,7 +3,9 @@
 ## ITMO.SoftwareEng2022.ProgTech
 ### ИТМО 2022. Технологии программирования
 
-<img src="images/m_n.png" alt="drawing" width="350"/>
+<p align="center">
+<img src="images/m_n.png" alt="drawing" width="400"/>
+</p>
 
 ***Состав репозитория:***
 
